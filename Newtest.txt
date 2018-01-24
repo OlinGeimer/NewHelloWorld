@@ -4,14 +4,4 @@ Hi Olin!
 Was geht ab?
 Ich hab Hunger und du?
 Same
-<<<<<<< HEAD
-Das Essen war lecker 
-Oder auch nicht
-Aber egal schon
-Genau
-Test234
-Doch nicht
-Neu
-=======
-Das Essen war lecker 
->>>>>>> 665f2cd8550dc00c2dfcb1b52b9c7c0fb33385f2
+Das essen war lecker
